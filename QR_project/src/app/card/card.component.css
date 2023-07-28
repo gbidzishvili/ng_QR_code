@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 375px;
+    height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+}
+.card {
+    border-radius: 10px;
+    width: 330px;
+    height: 86vh;
+    background-color: hsl(0, 0%, 100%);
+    padding: 15px;
+}

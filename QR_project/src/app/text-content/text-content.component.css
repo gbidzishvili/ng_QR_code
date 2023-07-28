@@ -1,0 +1,13 @@
+.header {
+    font-family: "outfit", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+}
+.sub-header {
+    font-family: "outfit";
+    font-size: 16px;
+    padding: 10px;
+    color: hsl(212deg 18.3% 65.49%);
+    text-align: center;
+}

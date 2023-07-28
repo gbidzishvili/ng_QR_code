@@ -1,0 +1,13 @@
+.qr-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4c8ff9;
+    height: 60%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+img {
+    width: 80%; /* margin-bottom: 23px; */
+    height: 85%;
+}
